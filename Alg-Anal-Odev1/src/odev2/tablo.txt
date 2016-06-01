@@ -1,7 +1,11 @@
-  header-1  header-2  header-3  header-4  header-5  header-6
-001011
-010010
-101110
-000010
-110110
-001101
+  header-1  header-2  header-3  header-4  header-5
+10100
+01101
+11001
+11001
+11100
+01001
+00011
+11111
+11100
+11011
